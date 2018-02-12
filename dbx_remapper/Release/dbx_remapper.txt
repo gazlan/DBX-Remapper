@@ -1,0 +1,7 @@
+-*-   DBX Remapper  1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+DBX Remapper
+
+Usage: dbx_remapper.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
